@@ -62,7 +62,7 @@
             // 
             this.trangChủToolStripMenuItem.Name = "trangChủToolStripMenuItem";
             this.trangChủToolStripMenuItem.Size = new System.Drawing.Size(72, 20);
-            this.trangChủToolStripMenuItem.Text = "Trang chủ";
+            this.trangChủToolStripMenuItem.Text = "Trang chủ 2";
             // 
             // quảnLýThôngTinToolStripMenuItem
             // 
