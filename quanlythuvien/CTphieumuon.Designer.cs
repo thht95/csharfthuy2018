@@ -138,6 +138,7 @@
             // 
             // cbomapm
             // 
+            this.cbomapm.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cbomapm.FormattingEnabled = true;
             this.cbomapm.Location = new System.Drawing.Point(155, 43);
             this.cbomapm.Name = "cbomapm";
@@ -146,6 +147,7 @@
             // 
             // cbomasach
             // 
+            this.cbomasach.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cbomasach.FormattingEnabled = true;
             this.cbomasach.Location = new System.Drawing.Point(155, 98);
             this.cbomasach.Name = "cbomasach";
